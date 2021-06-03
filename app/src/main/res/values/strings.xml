@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraLibraries</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="switch_cam">Switch</string>
+</resources>
